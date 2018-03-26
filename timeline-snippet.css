@@ -1,0 +1,63 @@
+.timeline .event div.date {
+	padding: 1.8em 2em 0 0
+}
+
+.timeline .event div.description {
+	border-left: 3px solid #013C65;
+	padding: 1.5em 2em
+}
+
+.timeline .event:not(:nth-child(even)) div.description {
+	background-color: #EBEBEB
+}
+
+.timeline .event div.description:before {
+	box-shadow: 0 0 0 3px #F6B000;
+	display: block;
+	position: absolute;
+	left: -.4em;
+	background: #fff;
+	border-radius: 50%;
+	height: 11px;
+	width: 11px;
+	content: ""
+}
+
+.timeline .event:not(:nth-child(even)) div.description:before {
+	background: #EBEBEB
+}
+
+@media only screen and (min-width: 40.063em) {
+	.timeline .event div.description:before {
+		top:2.3em;
+		left: -.4em
+	}
+
+	.timeline .event div.date {
+		text-align: right
+	}
+}
+
+@media only screen and (max-width: 40em) {
+	.timeline .event div.date {
+		padding:1.5em 2em 0;
+		border-left: 3px solid #013C65
+	}
+
+	.timeline .event div.date p {
+		margin-bottom: .7rem;
+		font-weight: 700!important
+	}
+
+	.timeline .event:not(:nth-child(even)) div.date {
+		background-color: #EBEBEB
+	}
+
+	.timeline .event div.description {
+		padding: 0 2em 1.5em
+	}
+
+	.timeline .event div.description:before {
+		top: .8em
+	}
+}
