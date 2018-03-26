@@ -10,7 +10,7 @@ Compelling mobile-friendly layouts don’t need to be difficult and time consumi
 
 ## Code examples
 
-* Padding CSS
+* [Padding CSS](padding.css)
 * Variable Columns
 	* [XSL](variable-columns-snippet.xsl)
 	* [Snippet html](variable-columns-snippet.htm)
@@ -24,8 +24,8 @@ Compelling mobile-friendly layouts don’t need to be difficult and time consumi
 
 ## Examples of other custom pages
 
-[Business program category page](http://www.unco.edu/programs/categories/business/)
-[Why UNC Graduate School](http://www.unco.edu/graduate-school/why-unc/)
-[Student Support](http://www.unco.edu/student-support/)
-[Student Experience](http://www.unco.edu/student-experience/)
-[ROAR page](http://www.unco.edu/roar/)
+* [Business program category page](http://www.unco.edu/programs/categories/business/)
+* [Why UNC Graduate School](http://www.unco.edu/graduate-school/why-unc/)
+* [Student Support](http://www.unco.edu/student-support/)
+* [Student Experience](http://www.unco.edu/student-experience/)
+* [ROAR page](http://www.unco.edu/roar/)
