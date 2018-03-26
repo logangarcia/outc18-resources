@@ -1,4 +1,4 @@
-[![UNC Logo](https://www.unco.edu/_resources/images/core/branding/UNC2015-Header-blue-text.png)](http://www.unco.edu)
+[![UNC Logo](assets/images/UNC2015-Header-blue-text.png)](http://www.unco.edu)
 
 # OUTC18 Resources
 
